@@ -6,7 +6,7 @@ This project presents an in-depth data cleaning and exploration of a Star Wars f
 
 - **Goal**: Uncover patterns and insights from survey data about Star Wars fans' preferences.
 - **Skills Highlighted**: Data cleaning, statistical analysis, data visualization, and reporting.
-- **Tools Used**: Python (pandas, numpy), Jupyter Notebook, Matplotlib, Seaborn.
+- **Tools Used**: Python (pandas, numpy), Jupyter Notebook, Matplotlib.
 
 ## Key Deliverables
 
